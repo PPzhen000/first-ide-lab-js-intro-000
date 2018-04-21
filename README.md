@@ -53,7 +53,7 @@
 
   Once you login to the IDE, come back to your web browser and continue reading this guide.
 
-  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-login.png" style="display: block; border: 1px solid #000"/>
+  <img src="//learn-co-videos.s3.amazonaws.com/learn-co-orientation/learn-login.png" style="display: block; border: 2px solid #000"/>
   
   <br>
   
